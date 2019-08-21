@@ -1,0 +1,60 @@
+body {
+	font-family: "RobotoLight";
+	font-size: 14px;
+	color: #333;
+}
+header {
+	background-color: #fff;
+	position: fixed;
+	width: 100%;
+	margin-top: -8px !important;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+
+}
+li {
+	display: inline-block;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+}
+.mnu {
+	margin-left: 50px;
+	word-spacing: 40px;	
+}
+.logo {
+	word-spacing: normal;
+	font-family: "RobotoMedium";
+}
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333;
+}
+
+a:hover {
+	color: #75777D;
+	text-decoration: none;
+	-webkit-transition: color .25s ease;
+	-o-transition: color .25s ease;
+	transition: color .25s ease;
+}
+
+a:active {
+	color: #333;
+}
+.content img { 
+	margin: 0 auto;
+	padding-bottom: 60px;
+	padding-right: 60px;
+	display: block;
+	max-width: auto;
+	height: auto;
+}
+}
