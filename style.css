@@ -7,16 +7,16 @@
 	font-size: 14px;
 	font-weight: 300;
 	-webkit-font-smoothing: antialiased;
-	background-color: #231d1f;
-	color: #EAEAEA;
+	background-color: #f8fbff;
+	color: #2e59de;
 }
 
 a:link {
-	color: #EAEAEA;
+	color: #2e59de;
 }
 
 a:visited {
-	color: #EAEAEA;
+	color: #2e59de;
 }
 
 a:hover {
@@ -28,7 +28,7 @@ a:hover {
 }
 
 a:active {
-	color: #EAEAEA;
+	color: #2e59de;
 }
 
 
@@ -38,7 +38,7 @@ a:active {
 	padding-bottom: 30px;
 	padding-left: 30px;
 	padding-right: 30px;
-	background-color: #231d1f;
+	background-color: #f8fbff;
 	position: relative;
 	width: 100%;
 }
@@ -65,29 +65,29 @@ li {
 	padding-top: 50px;
 	padding-bottom: 30px;
 	padding-left: 50px;
-	background-color: #231d1f;
+	background-color: #f8fbff;
 	width: 100%;
 	text-align: left;
-	color: #EAEAEA;
+	color: #2e59de;
 }
 
 .footer1 {
 	padding-top: 50px;
 	padding-bottom: 30px;
 	padding-left: 115px;
-	background-color: #231d1f;
+	background-color: #f8fbff;
 	width: 100%;
 	text-align: left;
-	color: #EAEAEA;
+	color: #2e59de;
 }
 
 .content {
-	background-color: #231d1f;
+	background-color: #f8fbff;
 	padding-top: 90px;
 }
 
 .video {
-	background-color: #231d1f;
+	background-color: #f8fbff;
 	padding-top: 120px;
 	text-align: center;
 }
